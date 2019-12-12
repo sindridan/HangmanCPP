@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1521067971 source:c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\main.cpp
+	<iostream>
+	<string>
+	"MainUI.h"
+
+1521150690 c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\hangmanrepo.h
+	<vector>
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"playermodel.h"
+
+1521150661 c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\hangmanservice.h
+	<ctime>
+	<algorithm>
+	"HangmanRepo.h"
+
+1521056332 c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\hangmanplay.h
+	"HangmanService.h"
+
+1521125633 source:c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\playerinput.cpp
+	"PlayerInput.h"
+
+1521125641 c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\playerinput.h
+	<vector>
+	<string>
+	<iostream>
+
+1521152337 source:c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\gameui.cpp
+	"GameUI.h"
+
+1521152512 c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\gameui.h
+	<iostream>
+	<string>
+	<vector>
+	"HangmanPlay.h"
+	"PlayerInput.h"
+	"MainUI.h"
+
+1521127223 source:c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\adminui.cpp
+	"AdminUI.h"
+
+1521068233 c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\adminui.h
+	<iostream>
+	"HangmanRepo.h"
+	"MainUI.h"
+
+1521117529 c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\mainui.h
+	<iostream>
+	<string>
+	<vector>
+	"GameUI.h"
+	"AdminUI.h"
+	"HangmanService.h"
+
+1521152690 source:c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\mainui.cpp
+	"MainUI.h"
+
+1521145634 c:\users\sindri dan\dropbox\háskólinn í reykjavík\2. önn\gagnaskipan\hangman\playermodel.h
+	<string>
+
